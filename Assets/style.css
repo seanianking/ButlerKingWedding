@@ -1,0 +1,17 @@
+#familypic {
+    width: 400px;
+    padding: 20px;
+}
+.footer {
+    background-color: #F14668;
+}
+.aboutText {
+    font-size: larger;
+}
+.hide {
+    opacity: 0;
+}
+.wizBtn {
+    background-color: #F14668;
+    border: none;
+}
