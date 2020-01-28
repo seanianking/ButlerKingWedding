@@ -8,10 +8,16 @@
 .aboutText {
     font-size: larger;
 }
-.hide {
+/* .hide {
     opacity: 0;
-}
+} */
 .wizBtn {
     background-color: #F14668;
     border: none;
+}
+#welcomeDiv {
+    background-color: slategray;
+}
+#workshop {
+    background-image: "https://i.pinimg.com/originals/fb/c4/c8/fbc4c84e639cab3165bf7503ebf0ead1.jpg";
 }
