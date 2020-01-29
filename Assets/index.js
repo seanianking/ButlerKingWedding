@@ -1,8 +1,8 @@
-var wizEl = document.getElementById("wizard")
+var ElWiz = $("#wizard");
 
-document.addEventListener("mouseover", function(){
-    document.getElementById("wizard").className
-  });
-  
 
-f
+
+$("#wizard").click(function(){
+$(this).toggleClass("hide")
+
+})

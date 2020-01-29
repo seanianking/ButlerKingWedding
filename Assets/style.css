@@ -8,9 +8,9 @@
 .aboutText {
     font-size: larger;
 }
-/* .hide {
+.hide {
     opacity: 0;
-} */
+}
 .wizBtn {
     background-color: #F14668;
     border: none;
@@ -18,6 +18,10 @@
 #welcomeDiv {
     background-color: slategray;
 }
-#workshop {
-    background-image: "https://i.pinimg.com/originals/fb/c4/c8/fbc4c84e639cab3165bf7503ebf0ead1.jpg";
+.has-bg-img {
+    background: url("https://previews.123rf.com/images/pondpony/pondpony1611/pondpony161100038/68406572-set-of-hand-tools-in-workshop-on-wood-background-hand-tools-for-general-work-and-home-maintenance-.jpg")center center; background-size:cover;
+}
+.is-gray {
+    background-color: slategray;
+    color: white;
 }
