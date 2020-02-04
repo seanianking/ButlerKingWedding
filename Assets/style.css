@@ -1,6 +1,7 @@
 #familypic {
     width: 400px;
     padding: 20px;
+    
 }
 .footer {
     background-color: #F14668;
@@ -26,3 +27,7 @@
     background-color: slategray;
     color: white;
 }
+.card {
+    border: 20px #302E2F !important;
+}
+
