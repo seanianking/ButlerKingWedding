@@ -1,7 +1,6 @@
 #familypic {
     width: 400px;
     padding: 20px;
-    
 }
 .footer {
     background-color: #F14668;
@@ -29,5 +28,25 @@
 }
 .card {
     border: 20px #302E2F !important;
+    background-color: #363536;
+    text-align: center;
+    color: white;
+}
+.has-text-centered{
+    align-items: center !important;
 }
 
+a {
+    color: #F14668;
+    text-align: center;
+    
+}
+a:hover{
+    color: white;
+}
+label {
+    color: white !important;
+}
+.submission{
+      background-color: #363536
+}

@@ -6,6 +6,6 @@ $("#wizard").click(function(){
 $(this).toggleClass("hide")
 
 });
-$("#wizard").hover(function(){
+$("#wizard").mouseEnter(function(){
     $(this).append($("<span> Say hi!</span>"))
 })
