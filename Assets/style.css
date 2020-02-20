@@ -1,6 +1,6 @@
 #familypic {
     width: 400px;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .footer {
     background-color: #F14668;
@@ -50,3 +50,30 @@ label {
 .submission{
       background-color: #363536
 }
+.iconTitle {
+    font-size: medium !important;
+    align-items: center !important;
+    font-weight: bold !important;
+}
+.tile {
+    width: auto !important;
+}
+.verticalLine {
+    border-left: thick solid #F14668;
+}
+.rounded {
+    border-radius: 100px !important;
+}
+.boxshadow1 {
+    position: relative !important;
+    box-shadow: 4px 8px 16px slategray !important;
+    padding: 2px;
+    background: black;
+  }
+.boxshadow2 {
+    position: relative !important;
+    box-shadow: 4px 8px 16px slategray !important;
+    
+    background: black;
+  }
+  
