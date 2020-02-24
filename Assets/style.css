@@ -11,10 +11,7 @@
 .hide {
     opacity: 0;
 }
-.wizBtn {
-    background-color: #F14668;
-    border: none;
-}
+
 #welcomeDiv {
     background-color: slategray;
 }
@@ -34,6 +31,7 @@
 }
 .has-text-centered{
     align-items: center !important;
+    text-align: center !important;
 }
 
 a {
@@ -58,16 +56,12 @@ label {
 .tile {
     width: auto !important;
 }
-.verticalLine {
-    border-left: thick solid #F14668;
-}
 .rounded {
     border-radius: 100px !important;
 }
 .boxshadow1 {
     position: relative !important;
     box-shadow: 4px 8px 16px slategray !important;
-    padding: 2px;
     background: black;
   }
 .boxshadow2 {
@@ -76,4 +70,26 @@ label {
     
     background: black;
   }
-  
+hr {
+    border: 5px solid #F14668;
+    border-radius: 5px;
+    width: 90% !important;
+}
+.header {
+    height: 7.5rem !important;
+    background-color: #F14668;
+}
+.nav-item1 {
+    float: left;
+    margin-top: 0px !important;
+    margin-left: 20px !important;
+}
+#wizard {
+    height: 5rem;
+}
+.nav-item3 {
+    float: right;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
