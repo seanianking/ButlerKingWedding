@@ -1,12 +1,13 @@
 #familypic {
     width: 400px;
-    /* padding: 20px; */
 }
 .footer {
     background-color: #F14668;
+    padding: 3rem 1.5rem 3rem !important;
 }
-.aboutText {
+.aboutText, .subtitle {
     font-size: larger;
+    font-family: 'ZCOOL QingKe HuangYou' !important;
 }
 .hide {
     opacity: 0;
@@ -40,7 +41,7 @@ a {
     
 }
 a:hover{
-    color: white;
+    color: #312F2F !important;
 }
 label {
     color: white !important;
@@ -89,7 +90,21 @@ hr {
 }
 .nav-item3 {
     float: right;
+    
     margin-top: 1rem;
     margin-bottom: 1rem;
-    margin-right: 1rem;
+    margin-right: 1rem !important;
+} 
+.nav-item2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: calc(30px + (75 - 30) * (100vw - 320px) / (1366 - 320));
+    font-family: Federant;
+}
+.columns {
+    height: 7.5rem !important;
+}
+.title {
+    font-family: 'ZCOOL XiaoWei' !important;
+    font-size: calc(30px + (75 - 30) * (100vw - 320px) / (1366 - 320));
 }
