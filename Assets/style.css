@@ -10,7 +10,7 @@
     font-family: 'ZCOOL QingKe HuangYou' !important;
 }
 .hide {
-    opacity: 0;
+    display: none;
 }
 
 #welcomeDiv {
@@ -107,4 +107,9 @@ hr {
 .title {
     font-family: 'ZCOOL XiaoWei' !important;
     font-size: calc(30px + (75 - 30) * (100vw - 320px) / (1366 - 320));
+}
+
+.bodytitle {
+    font-family: 'ZCOOL XiaoWei' !important;
+    font-size: calc(30px + (60 - 30) * (100vw - 320px) / (1366 - 320));
 }
