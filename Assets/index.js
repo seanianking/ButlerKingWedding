@@ -11,7 +11,7 @@ else
 });
 
 $("#wizDiv").mouseenter(function(){
-    $(this).append($("<span id='greeting'> Say hi!</span>"))
+    $(this).prepend($("<span id='greeting'> Hi!</span>"))
 });
 
 $('#wizDiv').mouseleave(function(){
