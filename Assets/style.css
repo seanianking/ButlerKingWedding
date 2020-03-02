@@ -8,6 +8,7 @@
 .aboutText, .subtitle {
     font-size: larger;
     font-family: 'ZCOOL QingKe HuangYou' !important;
+    
 }
 .hide {
     display: none;
@@ -24,12 +25,6 @@
     background-color: slategray;
     color: white;
 }
-.card {
-    border: 20px #302E2F !important;
-    background-color: #363536;
-    text-align: center;
-    color: white;
-}
 .has-text-centered{
     align-items: center !important;
     text-align: center !important;
@@ -38,6 +33,7 @@
 a {
     color: #F14668;
     text-align: center;
+    text-decoration: none !important;
     
 }
 a:hover{
@@ -112,4 +108,7 @@ hr {
 .bodytitle {
     font-family: 'ZCOOL XiaoWei' !important;
     font-size: calc(30px + (60 - 30) * (100vw - 320px) / (1366 - 320));
+}
+.container {
+    width: 80%;
 }
