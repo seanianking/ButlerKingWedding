@@ -5,11 +5,11 @@ import Container from 'react-bootstrap/Container'
 
 function Header() {
     return (
-        <div className="pt-3 pb-3 bg-warning">
+        <div className="pt-3 pb-3">
             <Container fluid>
                 <Row>
                     <Col>
-                        <h1>Thank you for celebrating with us!</h1>
+                        <h1 style={{fontFamily: "cursive"}}>Caden and Hayleigh</h1>
                     </Col>
                 </Row>
             </Container>
