@@ -8,17 +8,9 @@ function Announcement() {
         <div>
             <Container>
                 <Row>
-
                     <Col>
-                        <h1>Hey all you people,</h1>
-                        <h2>Hey all you people,</h2>
-                        <h3>Hey all you people,</h3>
-                        <h2>Won't you listen to me?</h2>
-                        <h1>I just had a sandwich,</h1>
-                        <h2>Not an ordinary sandwich,</h2>
-                        <h2>A sandwich filled with Jellyfish Jelly!</h2>
+                        
                     </Col>
-
                 </Row>
             </Container>
         </div>
