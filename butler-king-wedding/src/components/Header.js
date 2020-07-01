@@ -9,7 +9,7 @@ function Header() {
             <Container fluid>
                 <Row>
                     <Col>
-                        <h1 style={{fontFamily: "cursive"}}>Caden and Hayleigh</h1>
+                        <h1 className="headText">Caden and Hayleigh</h1>
                     </Col>
                 </Row>
             </Container>

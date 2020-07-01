@@ -1,2 +1,14 @@
 /* font-family: 'Great Vibes', cursive;
 font-family: 'Playfair Display', serif; */
+
+.headText{
+    font-family: 'Great Vibes', cursive !important;
+    font-size: calc(35px + (80 - 35) * (100vw - 320px) / (1366 - 320));
+}
+.announceNames{
+    font-family: 'Great Vibes', cursive !important;
+    font-size: calc(20px + (60 - 20) * (100vw - 320px) / (1366 - 320));
+}
+.announceText{
+    font-size: x-large;
+}
