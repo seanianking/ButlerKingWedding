@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0566a83f6e21973f75e4b941ef030ce4",
+    "revision": "28d103fa2ad0b039080cbb22bed9c51a",
     "url": "/ButlerKingWedding/index.html"
   },
   {
-    "revision": "e7135b599ae8c9ed727e",
+    "revision": "203cc27440498afb495f",
     "url": "/ButlerKingWedding/static/css/2.1b55288b.chunk.css"
   },
   {
-    "revision": "114b082a561b850ec6ec",
+    "revision": "ebd8ec47fa9d8f737c0e",
     "url": "/ButlerKingWedding/static/css/main.1899553d.chunk.css"
   },
   {
-    "revision": "e7135b599ae8c9ed727e",
-    "url": "/ButlerKingWedding/static/js/2.3abb3d8d.chunk.js"
+    "revision": "203cc27440498afb495f",
+    "url": "/ButlerKingWedding/static/js/2.502852ed.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/ButlerKingWedding/static/js/2.3abb3d8d.chunk.js.LICENSE.txt"
+    "url": "/ButlerKingWedding/static/js/2.502852ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "114b082a561b850ec6ec",
-    "url": "/ButlerKingWedding/static/js/main.1b625007.chunk.js"
+    "revision": "ebd8ec47fa9d8f737c0e",
+    "url": "/ButlerKingWedding/static/js/main.f298a31d.chunk.js"
   },
   {
     "revision": "bda9f99445c79329321a",
