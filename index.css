@@ -10,5 +10,10 @@ font-family: 'Playfair Display', serif; */
     font-size: calc(20px + (60 - 20) * (100vw - 320px) / (1366 - 320));
 }
 .announceText{
-    font-size: x-large;
+    font-size: calc(15px + (55 - 15) * (100vw - 320px) / (1366 - 320));
+}
+.regImage{
+   padding: .25rem !important;
+   max-width: 200px !important;
+   height: auto !important;
 }

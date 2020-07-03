@@ -1,28 +1,30 @@
 {
   "files": {
     "main.css": "/ButlerKingWedding/static/css/main.1899553d.chunk.css",
-    "main.js": "/ButlerKingWedding/static/js/main.703a37bd.chunk.js",
-    "main.js.map": "/ButlerKingWedding/static/js/main.703a37bd.chunk.js.map",
+    "main.js": "/ButlerKingWedding/static/js/main.1b625007.chunk.js",
+    "main.js.map": "/ButlerKingWedding/static/js/main.1b625007.chunk.js.map",
     "runtime-main.js": "/ButlerKingWedding/static/js/runtime-main.74c6c8ed.js",
     "runtime-main.js.map": "/ButlerKingWedding/static/js/runtime-main.74c6c8ed.js.map",
     "static/css/2.1b55288b.chunk.css": "/ButlerKingWedding/static/css/2.1b55288b.chunk.css",
-    "static/js/2.c029dccf.chunk.js": "/ButlerKingWedding/static/js/2.c029dccf.chunk.js",
-    "static/js/2.c029dccf.chunk.js.map": "/ButlerKingWedding/static/js/2.c029dccf.chunk.js.map",
+    "static/js/2.3abb3d8d.chunk.js": "/ButlerKingWedding/static/js/2.3abb3d8d.chunk.js",
+    "static/js/2.3abb3d8d.chunk.js.map": "/ButlerKingWedding/static/js/2.3abb3d8d.chunk.js.map",
     "index.html": "/ButlerKingWedding/index.html",
-    "precache-manifest.db846a0cf4010b4f3cfab376d031021f.js": "/ButlerKingWedding/precache-manifest.db846a0cf4010b4f3cfab376d031021f.js",
+    "precache-manifest.7bb642c53559a94982928b3d34e34662.js": "/ButlerKingWedding/precache-manifest.7bb642c53559a94982928b3d34e34662.js",
     "service-worker.js": "/ButlerKingWedding/service-worker.js",
     "static/css/2.1b55288b.chunk.css.map": "/ButlerKingWedding/static/css/2.1b55288b.chunk.css.map",
     "static/css/main.1899553d.chunk.css.map": "/ButlerKingWedding/static/css/main.1899553d.chunk.css.map",
-    "static/js/2.c029dccf.chunk.js.LICENSE.txt": "/ButlerKingWedding/static/js/2.c029dccf.chunk.js.LICENSE.txt",
+    "static/js/2.3abb3d8d.chunk.js.LICENSE.txt": "/ButlerKingWedding/static/js/2.3abb3d8d.chunk.js.LICENSE.txt",
+    "static/media/Amazon.png": "/ButlerKingWedding/static/media/Amazon.53ce77ad.png",
     "static/media/HC1.JPG": "/ButlerKingWedding/static/media/HC1.a3df81c9.JPG",
     "static/media/HC2.JPG": "/ButlerKingWedding/static/media/HC2.f6b31bb0.JPG",
-    "static/media/HC3.JPG": "/ButlerKingWedding/static/media/HC3.9660ef09.JPG"
+    "static/media/HC3.JPG": "/ButlerKingWedding/static/media/HC3.9660ef09.JPG",
+    "static/media/Target.png": "/ButlerKingWedding/static/media/Target.82eaf39c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.74c6c8ed.js",
     "static/css/2.1b55288b.chunk.css",
-    "static/js/2.c029dccf.chunk.js",
+    "static/js/2.3abb3d8d.chunk.js",
     "static/css/main.1899553d.chunk.css",
-    "static/js/main.703a37bd.chunk.js"
+    "static/js/main.1b625007.chunk.js"
   ]
 }
