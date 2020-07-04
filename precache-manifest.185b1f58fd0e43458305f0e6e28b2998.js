@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "013fba9a84a9a2c29535534c7886279d",
+    "revision": "cd63f4d25e3598673cf2af09daddb001",
     "url": "/index.html"
   },
   {
-    "revision": "203cc27440498afb495f",
+    "revision": "45b35fdf8f378775fc85",
     "url": "/static/css/2.1b55288b.chunk.css"
   },
   {
-    "revision": "f4c61e9596823dfe9ae3",
+    "revision": "d387dbad089de7d0dd3e",
     "url": "/static/css/main.1899553d.chunk.css"
   },
   {
-    "revision": "203cc27440498afb495f",
-    "url": "/static/js/2.502852ed.chunk.js"
+    "revision": "45b35fdf8f378775fc85",
+    "url": "/static/js/2.9a92aee7.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.502852ed.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9a92aee7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4c61e9596823dfe9ae3",
-    "url": "/static/js/main.51cefc1e.chunk.js"
+    "revision": "d387dbad089de7d0dd3e",
+    "url": "/static/js/main.075859fd.chunk.js"
   },
   {
     "revision": "1ecc0457c63798124e10",
@@ -46,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82eaf39c600f9a41b07f212691dabf8f",
     "url": "/static/media/Target.82eaf39c.png"
+  },
+  {
+    "revision": "80742503b2fb6313d60fa7556f125b43",
+    "url": "/static/media/Venmo.80742503.jpeg"
   }
 ]);
