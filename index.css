@@ -20,12 +20,19 @@ font-family: 'Playfair Display', serif; */
 }
 .regButton{
     max-height: 50px;
-    vertical-align: middle !important;
     font-family: 'Playfair Display', serif;
 }
 .borderBottom{
     border-bottom: solid 3px lightgray;
 }
 .contact{
+    font-family: 'Playfair Display', serif;
+    max-width: 90%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.instruction{
+    line-height: 1.5;
     font-family: 'Playfair Display', serif;
 }
